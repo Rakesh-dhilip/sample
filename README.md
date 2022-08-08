@@ -1,2 +1,2 @@
 # sample
-mosh sample
+rak sample
